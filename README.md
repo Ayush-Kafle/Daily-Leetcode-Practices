@@ -1,2 +1,2 @@
 # Daily-Leetcode-Practices
-I've been doing this for a while now. I thought I'd document everything here too. My daily LeetCode and coding practice solutions.
+This is my practice checkpoints for Leetcode problems. 
