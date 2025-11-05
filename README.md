@@ -1,2 +1,2 @@
 # Daily-Leetcode-Practices
-This is my practice checkpoints for Leetcode problems. 
+This is my practice checkpoint for Leetcode problems. 
