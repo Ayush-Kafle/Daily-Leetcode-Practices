@@ -1,0 +1,16 @@
+class Solution {
+public:
+    vector<int> minOperations(string boxes) {
+        int n = boxes.size();
+        vector<int> nums(n, 0);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (boxes[j] == '1') { // only count distances from boxes that have balls
+                    nums[i] += abs(i - j);
+                }
+            }
+        }
+        return nums;
+    }
+};
