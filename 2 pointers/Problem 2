@@ -14,4 +14,4 @@ class Solution:
                 res.append(word2[j])
             i += 1
             j += 1
-        return "".join(res)
+        return "".join(res)    //this converts all the list into a string very convenient thing in python
