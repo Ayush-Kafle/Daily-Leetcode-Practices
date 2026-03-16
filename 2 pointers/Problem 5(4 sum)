@@ -129,5 +129,5 @@ class Solution:
 
 
 // Time complexity o(n^3)
-// space complexity o(1) or o(n) space depending on the sorting algorithm
-// o(m) space for the output array
+// space complexity o(1) or o(logn) for nums.sort() or o(n)  space depending on the sorting algorithm 
+// o(m) space for the output array where m is the no of quadruplets found or o(n^3)
